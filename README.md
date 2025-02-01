@@ -17,5 +17,12 @@ solution will be explain in Typescript/sql/panda in README file and solution in 
 |   └── 📄 Solution-for-28(Alternative Approach).js
 |   └── 📄 Solution-for-28(Alternative Approach).ts
 |   └── 📄 README.md
+├── 📂 35. Search Insert Position
+|   └── 📄 Solution-for-35.cpp
+|   └── 📄 Solution-for-35.js
+|   └── 📄 Solution-for-35.php
+|   └── 📄 Solution-for-35.py
+|   └── 📄 Solution-for-35.ts
+|   └── 📄 README.md
 └── 📄 README.md
 ```
