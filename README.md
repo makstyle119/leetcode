@@ -24,5 +24,12 @@ solution will be explain in Typescript/sql/panda in README file and solution in 
 |   └── 📄 Solution-for-35.py
 |   └── 📄 Solution-for-35.ts
 |   └── 📄 README.md
+├── 📂 66. Plus One
+|   └── 📄 Solution-for-66.cpp
+|   └── 📄 Solution-for-66.js
+|   └── 📄 Solution-for-66.php
+|   └── 📄 Solution-for-66.py
+|   └── 📄 Solution-for-66.ts
+|   └── 📄 README.md
 └── 📄 README.md
 ```
